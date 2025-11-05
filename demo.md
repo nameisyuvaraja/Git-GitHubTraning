@@ -4,4 +4,4 @@ This is the second line.
 
 This is the sixth line.
 
-This is the fourth line. That is it. This is good.
+This is the fourth line. That is it.
